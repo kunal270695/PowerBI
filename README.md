@@ -6,7 +6,7 @@ This Executive Overview Dashboard provides a high-level financial and customer p
 
 The dashboard is designed for bank executives, analysts, and decision-makers to identify growth opportunities, track customer engagement, and optimize regional and product strategies.
 
-![Dashboard] (Banking-Dashboard.png)
+![Dashboard](Banking-Dashboard.png)
 
 
 ## 🚀 Key Highlights
